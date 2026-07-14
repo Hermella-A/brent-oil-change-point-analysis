@@ -9,4 +9,4 @@ jobs:
         with:
           python-version: '3.10'
       - run: pip install -r requirements.txt
-      - run: python -m pytest tests/ || true
+      - run: python -m pytest tests/ || true  

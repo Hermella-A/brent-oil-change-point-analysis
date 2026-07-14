@@ -1,10 +1,35 @@
-﻿__pycache__/
+﻿# Python
+__pycache__/
 *.pyc
+*.pyo
+@"
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 venv/
 env/
 .venv/
-data/*.csv
-data/*.xlsx
-.ipynb_checkpoints/
+
+# IDE
 .vscode/
+.idea/
+
+# OS junk
 .DS_Store
+Thumbs.db
+
+
+# 1. Ignore the ENTIRE raw folder (raw data stays local only)
+data/raw/
+data/raw/*
+
+# 2. But explicitly track the processed folder (this is the deliverable)
+!data/processed/
+!data/processed/*.csv
+
+# 3. (Optional) Ignore any large data files just in case
+*.xlsx
+"@ | Out-File -FilePath .gitignore -Encoding utf8
