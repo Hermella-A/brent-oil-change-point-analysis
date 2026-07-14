@@ -1,0 +1,16 @@
+Event_ID,Date,Event_Name,Category
+1,2014-06-01,Oil Price Crash begins (Supply Glut),Supply/Demand
+2,2014-11-27,OPEC decides not to cut production,OPEC Policy
+3,2015-07-14,Iran Nuclear Deal (JCPOA) signed,Geopolitical
+4,2016-01-16,Implementation of Iran Nuclear Deal (Sanctions lifted),Geopolitical
+5,2016-09-28,OPEC Algiers Accord (first production cut in 8 years),OPEC Policy
+6,2016-11-30,OPEC+ Vienna Agreement (Formal production cuts),OPEC Policy
+7,2018-05-08,US withdraws from Iran Nuclear Deal / Re-imposes sanctions,Geopolitical
+8,2019-09-14,Attack on Saudi Aramco (Abqaiq–Khurais),Geopolitical/Conflict
+9,2020-01-03,US Assassination of Qasem Soleimani,Geopolitical/Conflict
+10,2020-03-06,OPEC+ talks collapse / Saudi-Russia price war,OPEC Policy
+11,2020-04-12,OPEC+ Historic production cut (9.7 million bpd),OPEC Policy
+12,2021-01-05,OPEC+ Saudi Arabia announces unilateral production cut,OPEC Policy
+13,2022-02-24,Russia-Ukraine War begins,Geopolitical/Conflict
+14,2022-03-08,US announces ban on Russian oil imports,Geopolitical/Sanctions
+15,2022-06-01,EU agrees to partial ban on Russian oil,Geopolitical/Sanctions 
