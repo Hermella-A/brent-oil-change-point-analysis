@@ -13,6 +13,17 @@ venv/
 env/
 .venv/
 
+# Node modules
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build artifacts
+build/
+dist/
+.env.local
+
 # IDE
 .vscode/
 .idea/

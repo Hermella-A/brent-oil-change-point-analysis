@@ -1,0 +1,8 @@
+.App {
+    background: #f5f7fa;
+    min-height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+} 
